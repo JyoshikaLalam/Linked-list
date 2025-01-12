@@ -41,5 +41,5 @@ traverseAndPrint(node1)
 newNode = Node(97)
 node1 = insertNodeAtPosition(node1, newNode, 2)
 
-print("\nAfter insertion:")
+print("\nAfter insertion of node:")
 traverseAndPrint(node1)
